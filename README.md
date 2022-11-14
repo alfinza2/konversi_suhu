@@ -10,6 +10,6 @@ NIM : 2041720186
 
 ## Screenshots
 
-![](assets/images/ss_1.png)
+![](images/01.png)
 
-![](assets/images/ss_2.png)
+![](images/02.png)
